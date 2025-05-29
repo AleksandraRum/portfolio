@@ -1,6 +1,6 @@
 # Портфолио разработчика — Александра Румянцева
 
-Junior backend-разработчик | Python, Django, REST API, PostgreSQL, Docker • C/C++, Linux, Makefile
+Junior backend-разработчик | Python, Django, REST API, PostgreSQL, Docker | C/C++, Linux, Makefile
 
 ## Ключевые проекты
 
@@ -37,16 +37,16 @@ REST API для блог-платформы: посты, подписки, ко�
 **Технологии:** C/C++, ncurses, Qt, Makefile  
 [GitHub →](https://github.com/AleksandraRum/BrickGame)
 
-
+---
 
 ### Проекты на C/C++
 
-- [SimpleBashUtils](https://github.com/AleksandraRum/SimpleBashUtils) — реализация cat, grep
-- [s21_math](https://github.com/AleksandraRum/s21_math) — математические функции (sin, log и др.)
-- [s21_stringplus](https://github.com/AleksandraRum/s21_stringplus) — string.h: strcpy, strlen, strtok
-- [s21_decimal](https://github.com/AleksandraRum/s21_decimal) — операции над decimal-типами
-- [s21_matrixplus](https://github.com/AleksandraRum/s21_matrixplus) — библиотека для матриц (обратная, транспонирование и др.)
-- [s21_containers](https://github.com/AleksandraRum/s21_containers) — реализация стандартных контейнеров (vector, list, map и др.) на C++
+[SimpleBashUtils](https://github.com/AleksandraRum/SimpleBashUtils) — реализация cat, grep
+[s21_math](https://github.com/AleksandraRum/s21_math) — математические функции (sin, log и др.)
+[s21_stringplus](https://github.com/AleksandraRum/s21_stringplus) — string.h: strcpy, strlen, strtok
+[s21_decimal](https://github.com/AleksandraRum/s21_decimal) — операции над decimal-типами
+[s21_matrixplus](https://github.com/AleksandraRum/s21_matrixplus) — библиотека для матриц (обратная, транспонирование и др.)
+[s21_containers](https://github.com/AleksandraRum/s21_containers) — реализация стандартных контейнеров (vector, list, map и др.) на C++
 
 ---
 
