@@ -4,6 +4,13 @@ Junior backend-разработчик | Python, Django, REST API, PostgreSQL, Do
 
 ## Ключевые проекты
 
+### BrickGame  
+Терминальные и консольные версии аркадных игр (Tetris, Snake).  
+**Технологии:** C/C++, ncurses, Qt, Makefile  
+[GitHub →](https://github.com/AleksandraRum/BrickGame)
+
+---
+
 ### Foodgram  
 API-сервис для публикации рецептов. Авторизация, фильтрация, сохранение покупок.  
 **Технологии:** Django, DRF, Docker, PostgreSQL, CI/CD  
@@ -29,13 +36,6 @@ REST API для блог-платформы: посты, подписки, ко�
 Бот уведомляет о статусе домашек через API Яндекса.  
 **Технологии:** Python, Telegram API, requests  
 [GitHub →](https://github.com/AleksandraRum/homework_bot)
-
----
-
-### BrickGame  
-Терминальные и консольные версии аркадных игр (Tetris, Snake).  
-**Технологии:** C/C++, ncurses, Qt, Makefile  
-[GitHub →](https://github.com/AleksandraRum/BrickGame)
 
 ---
 
