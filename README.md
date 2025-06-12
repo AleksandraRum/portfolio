@@ -6,28 +6,29 @@ Junior backend-разработчик | Python, Django, REST API, PostgreSQL, Do
 
 ### BrickGame  
 Терминальные и консольные версии аркадных игр (Tetris, Snake).  
-**Технологии:** C/C++, ncurses, Qt, Makefile  
+**Технологии:** C/C++, ncurses, Qt, Makefile, unit-тесты на Check и GTest  
 [GitHub →](https://github.com/AleksandraRum/BrickGame)
 
 ---
 
 ### Foodgram  
 API-сервис для публикации рецептов. Авторизация, фильтрация, сохранение покупок.  
-**Технологии:** Django, DRF, Docker, PostgreSQL, CI/CD  
+**Технологии:** Python 3.10+, Django, DRF, Docker, PostgreSQL, CI/CD  
 [GitHub →](https://github.com/AleksandraRum/foodgram-project-react)
 
 ---
 
 ### YaMDb  
 База отзывов на фильмы, музыку и книги. Командная разработка.  
-**Технологии:** Django, DRF, JWT, Docker, Redoc  
+**Технологии:** Python 3.10+, Django, DRF, JWT, Docker, Redoc, Swagger
+**Деплой:** проект развёрнут на Render, инструкция в `README.md`
 [GitHub →](https://github.com/AleksandraRum/yamdb_final)
 
 ---
 
 ### Yatube API  
 REST API для блог-платформы: посты, подписки, комментарии.  
-**Технологии:** Django, DRF, JWT  
+**Технологии:** Python 3.10+, Django, DRF, JWT  
 [GitHub →](https://github.com/AleksandraRum/api_final_yatube)
 
 ---
@@ -39,7 +40,16 @@ REST API для блог-платформы: посты, подписки, ко�
 
 ---
 
-### Проекты на C/C++
+## Аналитика данных
+
+### SQL Bootcamp
+Учебный проект по SQL. Группировки, транзакции, индексы, оконные функции, командные задания.  
+**Навыки:** PostgreSQL, SQL, DML/DDL, оптимизация, проектирование БД
+[SQL Bootcamp](https://github.com/AleksandraRum/SQL_Bootcamp)
+
+--- 
+
+## Проекты на C/C++
 
  [SimpleBashUtils](https://github.com/AleksandraRum/SimpleBashUtils) — реализация cat, grep  
  [s21_math](https://github.com/AleksandraRum/s21_math) — математические функции (sin, log и др.)  
